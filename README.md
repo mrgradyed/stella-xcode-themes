@@ -5,4 +5,6 @@ To install this theme: just put StellaLight.dvtcolortheme file in the ~/Library/
 
 ![Stella Light theme screenshot](https://raw.githubusercontent.com/mrgradyed/stella-xcode-themes/master/StellaLightScreenshot.png)
 
+
+- - - 
 [http://www.cocoadrops.com/](http://www.cocoadrops.com/)
