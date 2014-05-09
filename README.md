@@ -7,4 +7,4 @@ To install this theme: just put StellaLight.dvtcolortheme file in the ~/Library/
 
 
 - - - 
-[http://www.cocoadrops.com/](http://www.cocoadrops.com/)
+[www.cocoadrops.com](http://www.cocoadrops.com/)
